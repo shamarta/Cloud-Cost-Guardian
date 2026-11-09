@@ -1,0 +1,7 @@
+date,service,cost_usd
+2026-11-01,Amazon EC2,12.40
+2026-11-01,Amazon S3,1.10
+2026-11-02,Amazon EC2,14.20
+2026-11-02,Amazon RDS,40.00
+2026-11-03,Amazon EC2,1.40
+2026-11-03,Amazon S3,11.25

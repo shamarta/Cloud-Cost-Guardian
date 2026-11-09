@@ -1,6 +1,6 @@
 # Market Validation
 
-**Status:** Hypothesis to validate  
+**Status:** Market validation paused; customer interviews are deferred while an educational prototype is built.
 **Research snapshot:** 2026-11-09
 
 ## What we know so far
@@ -44,9 +44,9 @@ Prioritize founders, CTOs, platform/DevOps engineers, or engineering leads at AW
 
 Record the person's role and company type, the concrete incident, current workaround, frequency, impact, current spend/tool, and whether they agree to a follow-up. Separate direct quotes and observed facts from your interpretation.
 
-### Decision gate
+### Commercial-product decision gate
 
-Do not begin product implementation until the interviews provide evidence of a repeated, costly problem.
+The current prototype is a learning exercise, not evidence that the commercial product is validated. Before defining or marketing a paid product, conduct customer discovery and look for evidence of a repeated, costly problem.
 
 Proceed to a narrow PRD only if:
 
